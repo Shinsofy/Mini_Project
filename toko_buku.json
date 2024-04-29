@@ -1,0 +1,19 @@
+{
+    "namaToko": "Toko Buku Pria Misterius",
+    "pengarang": "UdinPetod",
+    "alamat": "Jl. Yono Sukamaju No. 69",
+    "buku": [
+        {
+            "judul": "Meditations",
+            "tahunTerbit": 2020
+        },
+        {
+            "judul": "The Republic",
+            "tahunTerbit": 2021
+        },
+        {
+            "judul": "Being and Time",
+            "tahunTerbit": 2022
+        }
+    ]
+}
